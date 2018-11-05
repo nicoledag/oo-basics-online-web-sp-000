@@ -4,7 +4,7 @@ attr_reader :brand
 
 
 def initialize(brand)
-  
+
 end
 
 
